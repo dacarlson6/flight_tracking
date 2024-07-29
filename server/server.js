@@ -7,8 +7,9 @@
 const PORT = 8000
 
 // Import Required Modules
-const express = require("express")
 const {runQueries} = require('../server/database.js')
+const express = require("express")
+
 
 const app = express() 
 
