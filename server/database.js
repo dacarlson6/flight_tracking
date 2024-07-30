@@ -3,7 +3,7 @@
 // Description:   Create a CSV file from the flight tracking API and write
 //                the contents to a Postgres database.
 
-// Author:        Devin Carlson
+// Author:        Randy Sincoular
 
 // Notes:
 // Lab 7 -        a new node module called: fast-csv is required
